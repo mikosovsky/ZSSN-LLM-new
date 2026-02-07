@@ -1,0 +1,6 @@
+streamlit
+pydantic-settings
+langchain
+langchain-openai
+fastmcp
+ruff
